@@ -7,8 +7,8 @@
 
 ```java
 
-function OlaMundo(mensagem) {
-    console.log("Olá mundo " + mensagem);
+public class Day001 {
+    public static void main(String[] args) {
+        System.out.println("Olá mundo");
+    }
 }
-
-OlaMundo("Estou muito Feliz, 1  Desafio");
