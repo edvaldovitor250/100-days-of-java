@@ -8,8 +8,20 @@ Declare uma variável em Java, atribua um número a ela e imprima o número no c
 
 ```java
 
-function OlaMundo(mensagem) {
-    console.log("Olá mundo " + mensagem);
-}
+public class Day002 {
 
-OlaMundo("Estou muito Feliz, 1  Desafio");
+
+    static public int numero1 = 20;
+
+    public static void main(String[] args) {
+        
+
+        int numero = 12;
+        
+        System.out.println(numero);
+
+        System.out.println(numero1);
+
+    }
+
+}
