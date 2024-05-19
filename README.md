@@ -9,7 +9,7 @@
 | 3    | Crie um programa Java que leia dois números do usuário, calcule a soma e imprima o resultado. | Entrada do usuário em Java, operações matemáticas. |Concluído✅ |
 | 4    | Escreva um programa Java que verifique se um número é par ou ímpar e imprima o resultado. | Estruturas condicionais em Java. | Concluído✅  |
 | 5    | Crie uma função em Java para calcular o fatorial de um número. | Laços de repetição em Java. | Concluído✅ |
-| 6    | Implemente um programa Java para verificar se um número é um número primo. | Algoritmos de verificação de números primos em Java. | |
+| 6    | Implemente um programa Java para verificar se um número é um número primo. | Algoritmos de verificação de números primos em Java. |Concluído✅ |
 | 7    | Escreva um programa Java que inverta uma string. | Manipulação de strings em Java. |  |
 | 8    | Crie uma classe em Java para representar uma calculadora básica com operações de soma, subtração, multiplicação e divisão. | OOP (Programação Orientada a Objetos) em Java. |  |
 | 9    | Implemente um programa Java que ordene um array de números. | Algoritmos de ordenação em Java. |  |
