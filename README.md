@@ -10,7 +10,7 @@
 | 4    | Escreva um programa Java que verifique se um número é par ou ímpar e imprima o resultado. | Estruturas condicionais em Java. | Concluído✅  |
 | 5    | Crie uma função em Java para calcular o fatorial de um número. | Laços de repetição em Java. | Concluído✅ |
 | 6    | Implemente um programa Java para verificar se um número é um número primo. | Algoritmos de verificação de números primos em Java. |Concluído✅ |
-| 7    | Escreva um programa Java que inverta uma string. | Manipulação de strings em Java. |  |
+| 7    | Escreva um programa Java que inverta uma string. | Manipulação de strings em Java. |Concluído✅   |
 | 8    | Crie uma classe em Java para representar uma calculadora básica com operações de soma, subtração, multiplicação e divisão. | OOP (Programação Orientada a Objetos) em Java. |  |
 | 9    | Implemente um programa Java que ordene um array de números. | Algoritmos de ordenação em Java. |  |
 | 10   | Escreva um programa Java que converta uma temperatura de Celsius para Fahrenheit e vice-versa. | Conceitos básicos de conversão de unidades em Java. |  |
