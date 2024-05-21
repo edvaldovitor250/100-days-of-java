@@ -12,7 +12,7 @@
 | 6    | Implemente um programa Java para verificar se um número é um número primo. | Algoritmos de verificação de números primos em Java. |Concluído✅ |
 | 7    | Escreva um programa Java que inverta uma string. | Manipulação de strings em Java. |Concluído✅   |
 | 8    | Crie uma classe em Java para representar uma calculadora básica com operações de soma, subtração, multiplicação e divisão. | OOP (Programação Orientada a Objetos) em Java. | Concluído✅  |
-| 9    | Implemente um programa Java que ordene um array de números. | Algoritmos de ordenação em Java. |  |
+| 9    | Implemente um programa Java que ordene um array de números. | Algoritmos de ordenação em Java. | Concluído✅ |
 | 10   | Escreva um programa Java que converta uma temperatura de Celsius para Fahrenheit e vice-versa. | Conceitos básicos de conversão de unidades em Java. |  |
 | 11   | Crie uma classe em Java para representar um sistema de gestão de estoque com operações de adicionar, remover e atualizar itens. | OOP (Programação Orientada a Objetos) em Java. |  |
 | 12   | Implemente um programa Java que calcule a média de uma lista de números. | Manipulação de arrays em Java. |  |
