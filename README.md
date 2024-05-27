@@ -17,7 +17,7 @@
 | 11   | Crie uma classe em Java para representar um sistema de gestão de estoque com operações de adicionar, remover e atualizar itens. | OOP (Programação Orientada a Objetos) em Java. |Concluído✅   |
 | 12   | Implemente um programa Java que calcule a média de uma lista de números. | Manipulação de arrays em Java. | Concluído✅  |
 | 13   | Escreva um programa Java que verifique se uma string é um palíndromo. | Manipulação de strings em Java. | Concluído✅  |
-| 14   | Crie uma classe em Java para representar um sistema de gerenciamento de alunos com operações de adicionar, remover e atualizar informações dos alunos. | OOP (Programação Orientada a Objetos) em Java. |  |
+| 14   | Crie uma classe em Java para representar um sistema de gerenciamento de alunos com operações de adicionar, remover e atualizar informações dos alunos. | OOP (Programação Orientada a Objetos) em Java. |Concluído✅  |
 | 15   | Implemente um programa Java que simule uma fila de banco, com operações de entrada e saída de clientes. | Estruturas de dados em Java. | |
 | 16   | Escreva um programa Java que realize a multiplicação de matrizes. | Manipulação de matrizes em Java. |  |
 | 17   | Crie uma classe em Java para representar um sistema de gestão de funcionários com operações de adicionar, remover e atualizar informações dos funcionários. | OOP (Programação Orientada a Objetos) em Java. |  |
