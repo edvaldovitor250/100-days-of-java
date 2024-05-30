@@ -21,7 +21,7 @@
 | 15   | Implemente um programa Java que simule uma fila de banco, com operações de entrada e saída de clientes. | Estruturas de dados em Java. |Concluído✅ |
 | 16   | Escreva um programa Java que realize a multiplicação de matrizes. | Manipulação de matrizes em Java. |Concluído✅  |
 | 17   | Crie uma classe em Java para representar um sistema de gestão de funcionários com operações de adicionar, remover e atualizar informações dos funcionários. | OOP (Programação Orientada a Objetos) em Java. |Concluído✅  |
-| 18   | Implemente um programa Java que calcule o valor de π (pi) usando a série de Leibniz. | Algoritmos de cálculo em Java. |  |
+| 18   | Implemente um programa Java que calcule o valor de π (pi) usando a série de Leibniz. | Algoritmos de cálculo em Java. | Concluído✅ |
 | 19   | Escreva um programa Java que gere os primeiros N números da sequência de Fibonacci. | Laços de repetição em Java. |  |
 | 20   | Crie uma classe em Java para representar um sistema de gerenciamento de produtos com operações de adicionar, remover e atualizar informações dos produtos. | OOP (Programação Orientada a Objetos) em Java. |  |
 | 21   | Implemente um programa Java que valide um endereço de e-mail usando expressões regulares. | Expressões regulares em Java. |  |
