@@ -26,4 +26,5 @@ public class Day018 {
 
         return 4 * sum;
     }
+    
 }
