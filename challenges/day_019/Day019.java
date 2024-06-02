@@ -1,3 +1,5 @@
+import java.util.Scanner;
+
 public class Day019 {
 
     public static void main(String[] args) {
