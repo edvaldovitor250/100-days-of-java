@@ -24,7 +24,7 @@
 | 18   | Implemente um programa Java que calcule o valor de π (pi) usando a série de Leibniz. | Algoritmos de cálculo em Java. | Concluído✅ |
 | 19   | Escreva um programa Java que gere os primeiros N números da sequência de Fibonacci. | Laços de repetição em Java. |Concluído✅  |
 | 20   | Crie uma classe em Java para representar um sistema de gerenciamento de produtos com operações de adicionar, remover e atualizar informações dos produtos. | OOP (Programação Orientada a Objetos) em Java. | Concluído✅ |
-| 21   | Implemente um programa Java que valide um endereço de e-mail usando expressões regulares. | Expressões regulares em Java. |  |
+| 21   | Implemente um programa Java que valide um endereço de e-mail usando expressões regulares. | Expressões regulares em Java. | Concluído✅ |
 | 22   | Escreva um programa Java que simule um jogo de dados (dados de 6 faces) com lançamentos e contagem de pontos. | Geração de números aleatórios em Java. |  |
 | 23   | Crie uma classe em Java para representar um sistema de gestão de clientes com operações de adicionar, remover e atualizar informações dos clientes. | OOP (Programação Orientada a Objetos) em Java. |  |
 | 24   | Implemente um programa Java que realize a busca binária em um array ordenado. | Algoritmos de busca em Java. |  |
