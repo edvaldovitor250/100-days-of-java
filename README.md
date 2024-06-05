@@ -26,8 +26,8 @@
 | 20   | Crie uma classe em Java para representar um sistema de gerenciamento de produtos com operações de adicionar, remover e atualizar informações dos produtos. | OOP (Programação Orientada a Objetos) em Java. | Concluído✅ |
 | 21   | Implemente um programa Java que valide um endereço de e-mail usando expressões regulares. | Expressões regulares em Java. | Concluído✅ |
 | 22   | Escreva um programa Java que simule um jogo de dados (dados de 6 faces) com lançamentos e contagem de pontos. | Geração de números aleatórios em Java. | Concluído✅  |
-| 23   | Crie uma classe em Java para representar um sistema de gestão de clientes com operações de adicionar, remover e atualizar informações dos clientes. | OOP (Programação Orientada a Objetos) em Java. |  |
-| 24   | Implemente um programa Java que realize a busca binária em um array ordenado. | Algoritmos de busca em Java. |  |
+| 23   | Crie uma classe em Java para representar um sistema de gestão de clientes com operações de adicionar, remover e atualizar informações dos clientes. | OOP (Programação Orientada a Objetos) em Java. |Concluído✅  |
+| 24   | Implemente um programa Java que realize a busca binária em um array ordenado. | Algoritmos de busca em Java. |Concluído✅  |
 | 25   | Escreva um programa Java que faça a contagem de vogais em uma string. | Manipulação de strings em Java. |  |
 | 26   | Crie uma classe em Java para representar um sistema de gestão de vendas com operações de adicionar, remover e atualizar informações das vendas. | OOP (Programação Orientada a Objetos) em Java. |  |
 | 27   | Implemente um programa Java que calcule o determinante de uma matriz. | Manipulação de matrizes em Java. |  |
