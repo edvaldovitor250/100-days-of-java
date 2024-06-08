@@ -30,7 +30,7 @@
 | 24   | Implemente um programa Java que realize a busca binária em um array ordenado. | Algoritmos de busca em Java. |Concluído✅  |
 | 25   | Escreva um programa Java que faça a contagem de vogais em uma string. | Manipulação de strings em Java. |Concluído✅  |
 | 26   | Crie uma classe em Java para representar um sistema de gestão de vendas com operações de adicionar, remover e atualizar informações das vendas. | OOP (Programação Orientada a Objetos) em Java. |Concluído✅  |
-| 27   | Implemente um programa Java que calcule o determinante de uma matriz. | Manipulação de matrizes em Java. |  |
+| 27   | Implemente um programa Java que calcule o determinante de uma matriz. | Manipulação de matrizes em Java. | Concluído✅  |
 | 28   | Escreva um programa Java que simule um sistema de votação, contando votos e anunciando o vencedor. | Estruturas de controle em Java. |  |
 | 29   | Crie uma classe em Java para representar um sistema de gestão de pedidos com operações de adicionar, remover e atualizar informações dos pedidos. | OOP (Programação Orientada a Objetos) em Java. |  |
 | 30   | Implemente um programa Java que realize a ordenação topológica de um grafo. | Algoritmos de ordenação em Java. | |
