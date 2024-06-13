@@ -35,7 +35,7 @@
 | 29   | Crie uma classe em Java para representar um sistema de gestão de pedidos com operações de adicionar, remover e atualizar informações dos pedidos. | OOP (Programação Orientada a Objetos) em Java. |Concluído✅  |
 | 30   | Implemente um programa Java que realize a ordenação topológica de um grafo. | Algoritmos de ordenação em Java. |Concluído✅ |
 | 31   | Escreva um programa Java que calcule o valor do seno de um ângulo usando a série de Taylor. | Algoritmos de cálculo em Java. |Concluído✅ |
-| 32  | Implemente um sistema de login e registro em Java utilizando conceitos de criptografia para armazenamento seguro de senhas. | Segurança em Java, Criptografia, OOP             |
+| 32  | Implemente um sistema de login e registro em Java utilizando conceitos de criptografia para armazenamento seguro de senhas. | Segurança em Java, Criptografia, OOP           |  Concluído✅   | 
 | 33  | Escreva um programa em Java que implemente o algoritmo de ordenação quicksort para ordenar uma lista de números inteiros. | Algoritmos de ordenação, Java                   |
 | 34  | Desenvolva um aplicativo Java que simule o funcionamento de um sistema de reserva de passagens aéreas, permitindo a reserva, cancelamento e visualização de voos. | OOP em Java, Aplicações em tempo real           |
 | 35  | Crie um sistema em Java para gerenciar uma agenda de contatos, com operações de adicionar, remover e atualizar informações de contatos. | OOP em Java, Estruturas de dados em Java       |
