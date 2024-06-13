@@ -24,7 +24,7 @@
 | 18   | Implemente um programa Java que calcule o valor de π (pi) usando a série de Leibniz. | Algoritmos de cálculo em Java. | Concluído✅ |
 | 19   | Escreva um programa Java que gere os primeiros N números da sequência de Fibonacci. | Laços de repetição em Java. |Concluído✅  |
 | 20   | Crie uma classe em Java para representar um sistema de gerenciamento de produtos com operações de adicionar, remover e atualizar informações dos produtos. | OOP (Programação Orientada a Objetos) em Java. | Concluído✅ |
-| 21   | Implemente um programa Java que valide um endereço de e-mail usando expressões regulares. | Expressões regulares em Java. | Concluído✅ |
+| 21   | Implemente um programa Java que valide um endereço de e-mail usando expressões regulares. | Expressões regulares em Java. | Concluído✅|
 | 22   | Escreva um programa Java que simule um jogo de dados (dados de 6 faces) com lançamentos e contagem de pontos. | Geração de números aleatórios em Java. | Concluído✅  |
 | 23   | Crie uma classe em Java para representar um sistema de gestão de clientes com operações de adicionar, remover e atualizar informações dos clientes. | OOP (Programação Orientada a Objetos) em Java. |Concluído✅  |
 | 24   | Implemente um programa Java que realize a busca binária em um array ordenado. | Algoritmos de busca em Java. |Concluído✅  |
@@ -34,7 +34,7 @@
 | 28   | Escreva um programa Java que simule um sistema de votação, contando votos e anunciando o vencedor. | Estruturas de controle em Java. |  Concluído✅ |
 | 29   | Crie uma classe em Java para representar um sistema de gestão de pedidos com operações de adicionar, remover e atualizar informações dos pedidos. | OOP (Programação Orientada a Objetos) em Java. |Concluído✅  |
 | 30   | Implemente um programa Java que realize a ordenação topológica de um grafo. | Algoritmos de ordenação em Java. |Concluído✅ |
-| 31   | Escreva um programa Java que calcule o valor do seno de um ângulo usando a série de Taylor. | Algoritmos de cálculo em Java. | 
+| 31   | Escreva um programa Java que calcule o valor do seno de um ângulo usando a série de Taylor. | Algoritmos de cálculo em Java. |Concluído✅ |
 | 32  | Implemente um sistema de login e registro em Java utilizando conceitos de criptografia para armazenamento seguro de senhas. | Segurança em Java, Criptografia, OOP             |
 | 33  | Escreva um programa em Java que implemente o algoritmo de ordenação quicksort para ordenar uma lista de números inteiros. | Algoritmos de ordenação, Java                   |
 | 34  | Desenvolva um aplicativo Java que simule o funcionamento de um sistema de reserva de passagens aéreas, permitindo a reserva, cancelamento e visualização de voos. | OOP em Java, Aplicações em tempo real           |
