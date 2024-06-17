@@ -39,7 +39,7 @@
 | 33  | Escreva um programa em Java que implemente o algoritmo de ordenação quicksort para ordenar uma lista de números inteiros. | Algoritmos de ordenação, Java           |Concluído✅ |
 | 34  | Desenvolva um aplicativo Java que simule o funcionamento de um sistema de reserva de passagens aéreas, permitindo a reserva, cancelamento e visualização de voos. | OOP em Java, Aplicações em tempo real        | Concluído✅  |
 | 35  | Crie um sistema em Java para gerenciar uma agenda de contatos, com operações de adicionar, remover e atualizar informações de contatos. | OOP em Java, Estruturas de dados em Java      |Concluído✅ |
-| 36  | Implemente um algoritmo em Java para encontrar o menor caminho em um grafo usando o algoritmo de Bellman-Ford. | Algoritmos de grafos, Java                      |
+| 36  | Implemente um algoritmo em Java para encontrar o menor caminho em um grafo usando o algoritmo de Bellman-Ford. | Algoritmos de grafos, Java  |Concluído✅  |
 | 37  | Escreva um programa Java que simule uma rede social básica, permitindo que os usuários se cadastrem, adicionem amigos e compartilhem mensagens. | OOP em Java, Aplicações em tempo real           |
 | 38  | Desenvolva um aplicativo em Java que resolva o problema das oito rainhas, encontrando todas as soluções válidas para o tabuleiro de xadrez. | Algoritmos de backtracking, Java                |
 | 39  | Crie um sistema Java para gerenciar uma loja online, com funcionalidades de adicionar produtos ao carrinho, fazer pedidos e calcular o total da compra. | OOP em Java, Estruturas de dados em Java       |
