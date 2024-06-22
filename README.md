@@ -43,7 +43,7 @@
 | 37  | Escreva um programa Java que simule uma rede social básica, permitindo que os usuários se cadastrem, adicionem amigos e compartilhem mensagens. | OOP em Java, Aplicações em tempo real  | Concluído✅  |
 | 38  | Desenvolva um aplicativo em Java que resolva o problema das oito rainhas, encontrando todas as soluções válidas para o tabuleiro de xadrez. | Algoritmos de backtracking, Java   |Concluído✅ |
 | 39  | Crie um sistema Java para gerenciar uma loja online, com funcionalidades de adicionar produtos ao carrinho, fazer pedidos e calcular o total da compra. | OOP em Java, Estruturas de dados em Java  | Concluído✅  |
-| 40  | Implemente um algoritmo em Java para encontrar todos os pares de elementos em uma lista cuja soma seja igual a um determinado valor. | Algoritmos de busca, Java                       |
+| 40  | Implemente um algoritmo em Java para encontrar todos os pares de elementos em uma lista cuja soma seja igual a um determinado valor. | Algoritmos de busca, Java   |Concluído✅  |
 | 41  | Escreva um programa Java que simule o funcionamento de um sistema de reservas em um cinema, permitindo a reserva de assentos e a visualização de sessões disponíveis. | OOP em Java, Aplicações em tempo real           |
 | 42  | Crie um programa Java que implemente o algoritmo de Kruskal para encontrar a árvore geradora mínima de um grafo ponderado. | Algoritmos de grafos, Estruturas de dados em Java|
 | 43  | Desenvolva um aplicativo em Java que permita ao usuário criar e manipular arquivos PDF, como adicionar páginas, texto e imagens. | Manipulação de arquivos, Java, Bibliotecas externas|
