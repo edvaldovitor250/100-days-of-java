@@ -39,7 +39,6 @@ public class Cinema {
     System.out.println("Número escolhido: " + numeros);
    }
 
-
 }
 
 
