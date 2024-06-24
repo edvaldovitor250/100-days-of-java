@@ -45,7 +45,7 @@
 | 39  | Crie um sistema Java para gerenciar uma loja online, com funcionalidades de adicionar produtos ao carrinho, fazer pedidos e calcular o total da compra. | OOP em Java, Estruturas de dados em Java  | Concluído✅  |
 | 40  | Implemente um algoritmo em Java para encontrar todos os pares de elementos em uma lista cuja soma seja igual a um determinado valor. | Algoritmos de busca, Java   |Concluído✅  |
 | 41  | Escreva um programa Java que simule o funcionamento de um sistema de reservas em um cinema, permitindo a reserva de assentos e a visualização de sessões disponíveis. | OOP em Java, Aplicações em tempo real        |Concluído✅  |
-| 42  | Crie um programa Java que implemente o algoritmo de Kruskal para encontrar a árvore geradora mínima de um grafo ponderado. | Algoritmos de grafos, Estruturas de dados em Java|
+| 42  | Crie um programa Java que implemente o algoritmo de Kruskal para encontrar a árvore geradora mínima de um grafo ponderado. | Algoritmos de grafos, Estruturas de dados em Java|Concluído✅ |
 | 43  | Desenvolva um aplicativo em Java que permita ao usuário criar e manipular arquivos PDF, como adicionar páginas, texto e imagens. | Manipulação de arquivos, Java, Bibliotecas externas|
 | 44  | Implemente um algoritmo em Java para resolver o problema do caminho mais curto em um grafo utilizando o algoritmo A* (A estrela). | Algoritmos de busca, Java, Inteligência Artificial|
 | 45  | Escreva um programa Java que simule o funcionamento de um sistema de gestão de estoque para uma loja, permitindo adicionar, remover e atualizar informações de produtos. | OOP em Java, Estruturas de dados em Java       |
