@@ -48,7 +48,7 @@
 | 42  | Crie um programa Java que implemente o algoritmo de Kruskal para encontrar a árvore geradora mínima de um grafo ponderado. | Algoritmos de grafos, Estruturas de dados em Java|Concluído✅ |
 | 43  | Desenvolva um aplicativo em Java que permita ao usuário criar e manipular arquivos PDF, como adicionar páginas, texto e imagens. | Manipulação de arquivos, Java, Bibliotecas externas  | Concluído✅ |
 | 44  | Implemente um algoritmo em Java para resolver o problema do caminho mais curto em um grafo utilizando o algoritmo A* (A estrela). | Algoritmos de busca, Java, Inteligência Artificial | Concluído✅  |
-| 45  | Escreva um programa Java que simule o funcionamento de um sistema de gestão de estoque para uma loja, permitindo adicionar, remover e atualizar informações de produtos. | OOP em Java, Estruturas de dados em Java       |
+| 45  | Escreva um programa Java que simule o funcionamento de um sistema de gestão de estoque para uma loja, permitindo adicionar, remover e atualizar informações de produtos. | OOP em Java, Estruturas de dados em Java       |Concluído✅  |
 | 46  | Crie um sistema em Java para gerenciar o tráfego em uma rede de computadores, atribuindo prioridades aos pacotes e garantindo a entrega correta. | OOP em Java, Redes de computadores             |
 | 47  | Implemente um algoritmo em Java para encontrar o fecho transitivo de um grafo direcionado. | Algoritmos de grafos, Java                      |
 | 48  | Desenvolva um aplicativo em Java que simule o funcionamento de um sistema de gerenciamento de projetos, permitindo criar, atribuir tarefas e acompanhar o progresso. | OOP em Java, Estruturas de dados em Java       |
