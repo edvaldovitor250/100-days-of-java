@@ -53,7 +53,7 @@
 | 47  | Implemente um algoritmo em Java para encontrar o fecho transitivo de um grafo direcionado. | Algoritmos de grafos, Java   |Concluído✅   |
 | 48  | Desenvolva um aplicativo em Java que simule o funcionamento de um sistema de gerenciamento de projetos, permitindo criar, atribuir tarefas e acompanhar o progresso. | OOP em Java, Estruturas de dados em Java        | Concluído✅  |
 | 49  | Crie um programa Java que implemente o algoritmo de detecção de ciclos em um grafo direcionado. | Algoritmos de grafos, Java                       | Concluído✅  |
-| 50  | Escreva um programa Java que simule um sistema de gerenciamento de escola, permitindo cadastrar alunos, professores, disciplinas e realizar matrículas. | OOP em Java, Estruturas de dados em Java       |
+| 50  | Escreva um programa Java que simule um sistema de gerenciamento de escola, permitindo cadastrar alunos, professores, disciplinas e realizar matrículas. | OOP em Java, Estruturas de dados em Java   |Concluído✅  |
 | 51  | Implemente um algoritmo em Java para encontrar a árvore de abrangência mínima de um grafo usando o algoritmo de Prim. | Algoritmos de grafos, Estruturas de dados em Java|
 | 52  | Desenvolva um aplicativo em Java que permita ao usuário realizar consultas em um banco de dados utilizando a linguagem SQL. | Java, Banco de dados, SQL                       |
 | 53  | Crie um sistema em Java para gerenciar um torneio esportivo, permitindo registrar equipes, resultados de partidas e calcular estatísticas. | OOP em Java, Estruturas de dados em Java       |
