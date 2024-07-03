@@ -55,7 +55,7 @@
 | 49  | Crie um programa Java que implemente o algoritmo de detecção de ciclos em um grafo direcionado. | Algoritmos de grafos, Java                       | Concluído✅  |
 | 50  | Escreva um programa Java que simule um sistema de gerenciamento de escola, permitindo cadastrar alunos, professores, disciplinas e realizar matrículas. | OOP em Java, Estruturas de dados em Java   |Concluído✅  |
 | 51  | Implemente um algoritmo em Java para encontrar a árvore de abrangência mínima de um grafo usando o algoritmo de Prim. | Algoritmos de grafos, Estruturas de dados em Java |Concluído✅ |
-| 52  | Desenvolva um aplicativo em Java que permita ao usuário realizar consultas em um banco de dados utilizando a linguagem SQL. | Java, Banco de dados, SQL                       |
+| 52  | Desenvolva um aplicativo em Java que permita ao usuário realizar consultas em um banco de dados utilizando a linguagem SQL. | Java, Banco de dados, SQL. | Concluído✅ |
 | 53  | Crie um sistema em Java para gerenciar um torneio esportivo, permitindo registrar equipes, resultados de partidas e calcular estatísticas. | OOP em Java, Estruturas de dados em Java       |
 | 54  | Implemente um algoritmo em Java para resolver o problema do empacotamento (bin packing problem) utilizando técnicas de programação dinâmica. | Algoritmos de otimização, Java, Programação dinâmica |
 | 55  | Escreva um programa Java que simule o funcionamento de um sistema de reserva de quartos de hotel, permitindo reservar, cancelar e visualizar quartos disponíveis. | OOP em Java, Estruturas de dados em Java       |
