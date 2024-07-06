@@ -57,7 +57,7 @@
 | 51  | Implemente um algoritmo em Java para encontrar a árvore de abrangência mínima de um grafo usando o algoritmo de Prim. | Algoritmos de grafos, Estruturas de dados em Java |Concluído✅ |
 | 52  | Desenvolva um aplicativo em Java que permita ao usuário realizar consultas em um banco de dados utilizando a linguagem SQL. | Java, Banco de dados, SQL. | Concluído✅ |
 | 53  | Crie um sistema em Java para gerenciar um torneio esportivo, permitindo registrar equipes, resultados de partidas e calcular estatísticas. | OOP em Java, Estruturas de dados em Java  |Concluído✅  |
-| 54  | Implemente um algoritmo em Java para resolver o problema do empacotamento (bin packing problem) utilizando técnicas de programação dinâmica. | Algoritmos de otimização, Java, Programação dinâmica |
+| 54  | Implemente um algoritmo em Java para resolver o problema do empacotamento (bin packing problem) utilizando técnicas de programação dinâmica. | Algoritmos de otimização, Java, Programação dinâmica |Concluído✅ |
 | 55  | Escreva um programa Java que simule o funcionamento de um sistema de reserva de quartos de hotel, permitindo reservar, cancelar e visualizar quartos disponíveis. | OOP em Java, Estruturas de dados em Java       |
 | 56  | Desenvolva um aplicativo em Java que simule um sistema de gerenciamento de tarefas, permitindo criar, atribuir, priorizar e acompanhar o progresso das tarefas. | OOP em Java, Estruturas de dados em Java       |
 | 57  | Crie um programa Java que implemente o algoritmo de busca em largura (BFS) para encontrar o caminho mais curto entre dois vértices em um grafo não ponderado. | Algoritmos de grafos, Java                      |
