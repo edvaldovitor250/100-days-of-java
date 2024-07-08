@@ -60,7 +60,7 @@
 | 54  | Implemente um algoritmo em Java para resolver o problema do empacotamento (bin packing problem) utilizando técnicas de programação dinâmica. | Algoritmos de otimização, Java, Programação dinâmica |Concluído✅ |
 | 55  | Escreva um programa Java que simule o funcionamento de um sistema de reserva de quartos de hotel, permitindo reservar, cancelar e visualizar quartos disponíveis. | OOP em Java, Estruturas de dados em Java  |Concluído✅ |
 | 56  | Desenvolva um aplicativo em Java que simule um sistema de gerenciamento de tarefas, permitindo criar, atribuir, priorizar e acompanhar o progresso das tarefas. | OOP em Java, Estruturas de dados em Java   |Concluído✅ |
-| 57  | Crie um programa Java que implemente o algoritmo de busca em largura (BFS) para encontrar o caminho mais curto entre dois vértices em um grafo não ponderado. | Algoritmos de grafos, Java                      |
+| 57  | Crie um programa Java que implemente o algoritmo de busca em largura (BFS) para encontrar o caminho mais curto entre dois vértices em um grafo não ponderado. | Algoritmos de grafos, Java |Concluído✅ |
 | 58  | Implemente um sistema em Java para gerenciar um restaurante, incluindo a gestão de pedidos, mesas e funcionários. | OOP em Java, Estruturas de dados em Java       |
 | 59  | Escreva um programa Java que simule o funcionamento de um sistema de recomendação de filmes, utilizando algoritmos de filtragem colaborativa. | Java, Algoritmos de recomendação, Inteligência Artificial|
 | 60  | Desenvolva um aplicativo em Java que simule o funcionamento de um sistema de monitoramento de tráfego rodoviário, permitindo visualizar e analisar o fluxo de veículos em tempo real. | OOP em Java, Aplicações em tempo real           |
