@@ -1,14 +1,3 @@
-# Day 63
-
-## Desafio:
-
-	Crie um sistema em Java para gerenciar um salão de beleza, incluindo agendamento de horários, serviços prestados e controle de estoque de produtos.
-    
-**Resultado:**
-
-
-```java
-
 import java.util.*;
 
 public class Day063 {
