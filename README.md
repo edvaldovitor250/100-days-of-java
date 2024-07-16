@@ -67,7 +67,7 @@
 | 61  | Implemente um sistema em Java para gerenciar uma escola de idiomas, incluindo matrículas, aulas e avaliações de alunos. | OOP em Java, Estruturas de dados em Java        | Concluído✅  |
 | 62  | Escreva um programa Java que simule um sistema de gerenciamento de gastos pessoais, permitindo registrar despesas, categorizá-las e gerar relatórios. | OOP em Java, Estruturas de dados em Java       |Concluído✅ |
 | 63  | Crie um sistema em Java para gerenciar um salão de beleza, incluindo agendamento de horários, serviços prestados e controle de estoque de produtos. | OOP em Java, Estruturas de dados em Java       | Concluído✅  |
-| 64  | Implemente um algoritmo em Java para calcular o fluxo máximo em um grafo usando o algoritmo de Ford-Fulkerson. | Algoritmos de grafos, Java                      |
+| 64  | Implemente um algoritmo em Java para calcular o fluxo máximo em um grafo usando o algoritmo de Ford-Fulkerson. | Algoritmos de grafos, Java   | Concluído✅  |
 | 65  | Desenvolva um aplicativo em Java que permita ao usuário realizar consultas em um banco de dados utilizando o framework Hibernate. | Java, Banco de dados, Hibernate                  |
 | 66  | Escreva um programa Java que simule o funcionamento de um sistema de reserva de carros em uma locadora, permitindo reservar, cancelar e visualizar carros disponíveis. | OOP em Java, Estruturas de dados em Java       |
 | 67  | Crie um sistema em Java para gerenciar um hospital, incluindo cadastro de pacientes, agendamento de consultas e controle de leitos disponíveis. | OOP em Java, Estruturas de dados em Java       |
