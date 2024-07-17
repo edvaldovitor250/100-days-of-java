@@ -69,7 +69,7 @@
 | 63  | Crie um sistema em Java para gerenciar um salão de beleza, incluindo agendamento de horários, serviços prestados e controle de estoque de produtos. | OOP em Java, Estruturas de dados em Java       | Concluído✅  |
 | 64  | Implemente um algoritmo em Java para calcular o fluxo máximo em um grafo usando o algoritmo de Ford-Fulkerson. | Algoritmos de grafos, Java   | Concluído✅  |
 | 65  | Desenvolva um aplicativo em Java que permita ao usuário realizar consultas em um banco de dados utilizando o framework Hibernate. | Java, Banco de dados, Hibernate   | Concluído✅  |
-| 66  | Escreva um programa Java que simule o funcionamento de um sistema de reserva de carros em uma locadora, permitindo reservar, cancelar e visualizar carros disponíveis. | OOP em Java, Estruturas de dados em Java       |
+| 66  | Escreva um programa Java que simule o funcionamento de um sistema de reserva de carros em uma locadora, permitindo reservar, cancelar e visualizar carros disponíveis. | OOP em Java, Estruturas de dados em Java | Concluído✅ |
 | 67  | Crie um sistema em Java para gerenciar um hospital, incluindo cadastro de pacientes, agendamento de consultas e controle de leitos disponíveis. | OOP em Java, Estruturas de dados em Java       |
 | 68  | Implemente um algoritmo em Java para encontrar o fecho transitivo reduzido de um grafo direcionado. | Algoritmos de grafos, Java                      |
 | 69  | Desenvolva um aplicativo em Java que simule um sistema de gerenciamento de tarefas com interface gráfica de usuário (GUI). | OOP em Java, GUI, Swing/AWT                    |
