@@ -72,7 +72,7 @@
 | 66  | Escreva um programa Java que simule o funcionamento de um sistema de reserva de carros em uma locadora, permitindo reservar, cancelar e visualizar carros disponíveis. | OOP em Java, Estruturas de dados em Java | Concluído✅ |
 | 67  | Crie um sistema em Java para gerenciar um hospital, incluindo cadastro de pacientes, agendamento de consultas e controle de leitos disponíveis. | OOP em Java, Estruturas de dados em Java |Concluído✅ |
 | 68  | Implemente um algoritmo em Java para encontrar o fecho transitivo reduzido de um grafo direcionado. | Algoritmos de grafos, Java |Concluído✅  | 
-| 69  | Desenvolva um aplicativo em Java que simule um sistema de gerenciamento de tarefas com interface gráfica de usuário (GUI). | OOP em Java, GUI, Swing/AWT                    |
+| 69  | Desenvolva um aplicativo em Java que simule um sistema de gerenciamento de tarefas com interface gráfica de usuário (GUI). | OOP em Java, GUI, Swing/AWT |  Concluído✅   | 
 | 70  | Escreva um programa Java que simule um sistema de gerenciamento de eventos, permitindo criar, editar e cancelar eventos, e gerar ingressos. | OOP em Java, Estruturas de dados em Java       |
 | 71  | Crie um sistema em Java para gerenciar uma concessionária de veículos, incluindo cadastro de carros, vendas e controle de estoque. | OOP em Java, Estruturas de dados em Java       |
 | 72  | Implemente um algoritmo em Java para encontrar os componentes fortemente conexos de um grafo direcionado. | Algoritmos de grafos, Java                      |
