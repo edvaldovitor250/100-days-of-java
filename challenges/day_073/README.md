@@ -1,8 +1,8 @@
-# Day 72
+# Day 73
 
 ## Desafio:
 
-	Implemente um algoritmo em Java para encontrar os componentes fortemente conexos de um grafo direcionado.
+	Desenvolva um aplicativo em Java que simule um sistema de gerenciamento de atividades de uma equipe de desenvolvimento de software, incluindo tarefas, sprints e burndown charts.
     
 **Resultado:**
 
@@ -11,86 +11,143 @@
 
 import java.util.ArrayList;
 import java.util.List;
-import java.util.Stack;
+import java.util.Scanner;
 
-public class Day072 {
+public class Day074 {
 
-    static class Graph {
-        private final int V;
-        private final List<List<Integer>> adj;
+    public static void main(String[] args) {
+        Scanner scanner = new Scanner(System.in);
+        ProjectManagementSystem system = new ProjectManagementSystem();
 
-        Graph(int V) {
-            this.V = V;
-            adj = new ArrayList<>(V);
-            for (int i = 0; i < V; i++) {
-                adj.add(new ArrayList<>());
-            }
-        }
+        while (true) {
+            System.out.println("\nSistema de Gerenciamento de Projetos:");
+            System.out.println("1. Adicionar tarefa");
+            System.out.println("2. Adicionar sprint");
+            System.out.println("3. Marcar tarefa como concluída");
+            System.out.println("4. Exibir burndown chart");
+            System.out.println("5. Sair");
+            System.out.print("Escolha uma opção: ");
 
-        void addEdge(int u, int v) {
-            adj.get(u).add(v);
-        }
+            int option = scanner.nextInt();
+            scanner.nextLine();
 
-        void fillOrder(int v, boolean[] visited, Stack<Integer> stack) {
-            visited[v] = true;
-            for (int n : adj.get(v)) {
-                if (!visited[n]) {
-                    fillOrder(n, visited, stack);
-                }
-            }
-            stack.push(v);
-        }
-
-        void DFSUtil(int v, boolean[] visited, List<Integer> component) {
-            visited[v] = true;
-            component.add(v);
-            for (int n : adj.get(v)) {
-                if (!visited[n]) {
-                    DFSUtil(n, visited, component);
-                }
-            }
-        }
-
-        Graph getTranspose() {
-            Graph g = new Graph(V);
-            for (int v = 0; v < V; v++) {
-                for (int n : adj.get(v)) {
-                    g.adj.get(n).add(v);
-                }
-            }
-            return g;
-        }
-
-        void printSCCs() {
-            Stack<Integer> stack = new Stack<>();
-            boolean[] visited = new boolean[V];
-            for (int i = 0; i < V; i++) {
-                if (!visited[i]) {
-                    fillOrder(i, visited, stack);
-                }
-            }
-            Graph gr = getTranspose();
-            visited = new boolean[V];
-            while (!stack.isEmpty()) {
-                int v = stack.pop();
-                if (!visited[v]) {
-                    List<Integer> component = new ArrayList<>();
-                    gr.DFSUtil(v, visited, component);
-                    System.out.println("Componente fortemente conexo: " + component);
-                }
+            switch (option) {
+                case 1:
+                    System.out.print("Digite o nome da tarefa: ");
+                    String taskName = scanner.nextLine();
+                    system.addTask(new Task(taskName));
+                    break;
+                case 2:
+                    System.out.print("Digite o nome da sprint: ");
+                    String sprintName = scanner.nextLine();
+                    system.addSprint(new Sprint(sprintName));
+                    break;
+                case 3:
+                    System.out.print("Digite o nome da tarefa concluída: ");
+                    String completedTaskName = scanner.nextLine();
+                    system.completeTask(completedTaskName);
+                    break;
+                case 4:
+                    system.displayBurndownChart();
+                    break;
+                case 5:
+                    System.out.println("Saindo...");
+                    scanner.close();
+                    return;
+                default:
+                    System.out.println("Opção inválida. Tente novamente.");
             }
         }
     }
+}
 
-    public static void main(String[] args) {
-        Graph g = new Graph(5);
-        g.addEdge(1, 0);
-        g.addEdge(0, 2);
-        g.addEdge(2, 1);
-        g.addEdge(0, 3);
-        g.addEdge(3, 4);
+class Task {
+    private String name;
+    private boolean isCompleted;
 
-        System.out.println("Os componentes fortemente conexos do grafo são:");
-        g.printSCCs();
+    public Task(String name) {
+        this.name = name;
+        this.isCompleted = false;
+    }
+
+    public String getName() {
+        return name;
+    }
+
+    public boolean isCompleted() {
+        return isCompleted;
+    }
+
+    public void complete() {
+        isCompleted = true;
+    }
+}
+
+class Sprint {
+    private String name;
+    private List<Task> tasks;
+
+    public Sprint(String name) {
+        this.name = name;
+        this.tasks = new ArrayList<>();
+    }
+
+    public String getName() {
+        return name;
+    }
+
+    public List<Task> getTasks() {
+        return tasks;
+    }
+
+    public void addTask(Task task) {
+        tasks.add(task);
+    }
+}
+
+class ProjectManagementSystem {
+    private List<Task> tasks;
+    private List<Sprint> sprints;
+
+    public ProjectManagementSystem() {
+        tasks = new ArrayList<>();
+        sprints = new ArrayList<>();
+    }
+
+    public void addTask(Task task) {
+        tasks.add(task);
+        System.out.println("Tarefa adicionada: " + task.getName());
+    }
+
+    public void addSprint(Sprint sprint) {
+        sprints.add(sprint);
+        System.out.println("Sprint adicionada: " + sprint.getName());
+    }
+
+    public void completeTask(String taskName) {
+        for (Task task : tasks) {
+            if (task.getName().equalsIgnoreCase(taskName)) {
+                task.complete();
+                System.out.println("Tarefa concluída: " + task.getName());
+                return;
+            }
+        }
+        System.out.println("Tarefa não encontrada: " + taskName);
+    }
+
+    public void displayBurndownChart() {
+        int totalTasks = tasks.size();
+        int completedTasks = 0;
+        for (Task task : tasks) {
+            if (task.isCompleted()) {
+                completedTasks++;
+            }
+        }
+        int remainingTasks = totalTasks - completedTasks;
+
+        System.out.println("\nBurndown Chart:");
+        System.out.println("Total de tarefas: " + totalTasks);
+        System.out.println("Tarefas concluídas: " + completedTasks);
+        System.out.println("Tarefas restantes: " + remainingTasks);
     }
 }
