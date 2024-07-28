@@ -80,7 +80,7 @@
 | 74  | Escreva um programa Java que simule um sistema de gestão de uma biblioteca digital, permitindo o cadastro de livros, empréstimos e devoluções. | OOP em Java, Estruturas de dados em Java  | Concluído✅  |
 | 75  | Crie um sistema em Java para gerenciar um centro de fitness, incluindo cadastro de membros, agendamento de aulas e controle de pagamentos. | OOP em Java, Estruturas de dados em Java  |Concluído✅  |
 | 76  | Implemente um algoritmo em Java para calcular o pagerank de páginas da web em um grafo representando a rede de links. | Algoritmos de grafos, Java   |Concluído✅  |
-| 77  | Desenvolva um aplicativo em Java que simule um sistema de reservas em um restaurante, permitindo reservar mesas, visualizar cardápio e fazer pedidos. | OOP em Java, Estruturas de dados em Java       |
+| 77  | Desenvolva um aplicativo em Java que simule um sistema de reservas em um restaurante, permitindo reservar mesas, visualizar cardápio e fazer pedidos. | OOP em Java, Estruturas de dados em Java |  Concluído✅ |
 | 78  | Escreva um programa Java que simule um sistema de gerenciamento de pedidos em um restaurante, incluindo registro de pedidos, preparo e entrega. | OOP em Java, Estruturas de dados em Java       |
 | 79  | Crie um sistema em Java para gerenciar um serviço de entrega de comida, incluindo cadastro de restaurantes, pedidos e acompanhamento de entregas. | OOP em Java, Estruturas de dados em Java       |
 | 80  | Implemente um algoritmo em Java para resolver o problema do corte de estoque (cutting stock problem), minimizando o desperdício de material. | Algoritmos de otimização, Java, Programação dinâmica |
