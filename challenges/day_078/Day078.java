@@ -4,28 +4,28 @@ import java.util.List;
 public class Day078 {
 
     static class SistemaPedidos {
-        List<String> pedidos = new ArrayList<>();
-        List<String> entrega = new ArrayList<>();
+        List<Pedido> pedidos = new ArrayList<>();
+        List<Entrega> entregas = new ArrayList<>();
 
-        public void registroPedido(String pedido, String entregas) {
+        public void registroPedido(Pedido pedido, Entrega entrega) {
             System.out.println("Seu pedido foi registrado: " + pedido);
-            System.out.println("Sua entrega foi registrada: " + entregas);
+            System.out.println("Sua entrega foi registrada: " + entrega);
             pedidos.add(pedido);
-            entrega.add(entregas);
+            entregas.add(entrega);
         }
 
-        public void preparoEntrega(String entregas) {
-            System.out.println("Preparo da entrega: " + entregas);
-            for (int i = 0; i < pedidos.size(); i++) {
-                if (entrega.get(i).equals(entregas)) {
-                    System.out.println("Pedido " + pedidos.get(i) + " está pronto para ser entregue.");
+        public void preparoEntrega(String destino) {
+            System.out.println("Preparo da entrega para: " + destino);
+            for (int i = 0; i < entregas.size(); i++) {
+                if (entregas.get(i).destino.equals(destino)) {
+                    System.out.println("Pedido " + pedidos.get(i) + " está pronto para ser entregue para " + destino + ".");
                 }
             }
         }
 
         public void listarTudo() {
             for (int i = 0; i < pedidos.size(); i++) {
-                System.out.println("Entrega: " + entrega.get(i));
+                System.out.println("Entrega: " + entregas.get(i));
                 System.out.println("Pedido: " + pedidos.get(i));
             }
         }
@@ -34,12 +34,12 @@ public class Day078 {
     public static void main(String[] args) {
         SistemaPedidos sistemaPedidos = new SistemaPedidos();
 
-        sistemaPedidos.registroPedido("Pedido1", "Entrega1");
-        sistemaPedidos.registroPedido("Pedido2", "Entrega2");
-        sistemaPedidos.registroPedido("Pedido3", "Entrega3");
+        sistemaPedidos.registroPedido(new Pedido("Pedido1", 10), new Entrega("Destino1", 15.5));
+        sistemaPedidos.registroPedido(new Pedido("Pedido2", 5), new Entrega("Destino2", 8.0));
+        sistemaPedidos.registroPedido(new Pedido("Pedido3", 3), new Entrega("Destino3", 2.5));
 
-        sistemaPedidos.preparoEntrega("Entrega1");
-        sistemaPedidos.preparoEntrega("Entrega2");
+        sistemaPedidos.preparoEntrega("Destino1");
+        sistemaPedidos.preparoEntrega("Destino2");
 
         sistemaPedidos.listarTudo();
     }
