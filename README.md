@@ -84,7 +84,7 @@
 | 78  | Escreva um programa Java que simule um sistema de gerenciamento de pedidos em um restaurante, incluindo registro de pedidos, preparo e entrega. | OOP em Java, Estruturas de dados em Java  |  Concluído✅   | 
 | 79  | Crie um sistema em Java para gerenciar um serviço de entrega de comida, incluindo cadastro de restaurantes, pedidos e acompanhamento de entregas. | OOP em Java, Estruturas de dados em Java    |Concluído✅ |
 | 80  | Implemente um algoritmo em Java para resolver o problema do corte de estoque (cutting stock problem), minimizando o desperdício de material. | Algoritmos de otimização, Java, Programação dinâmica  | Concluído✅  |
-| 81  | Desenvolva um aplicativo em Java que simule um sistema de gerenciamento de tarefas pessoais, permitindo criar listas de tarefas, definir prioridades e acompanhar o progresso. | OOP em Java, Estruturas de dados em Java       |
+| 81  | Desenvolva um aplicativo em Java que simule um sistema de gerenciamento de tarefas pessoais, permitindo criar listas de tarefas, definir prioridades e acompanhar o progresso. | OOP em Java, Estruturas de dados em Java | Concluído✅  |
 | 82  | Escreva um programa Java que simule um sistema de gerenciamento de espaços de coworking, incluindo reserva de estações de trabalho e salas de reunião. | OOP em Java, Estruturas de dados em Java       |
 | 83  | Crie um sistema em Java para gerenciar um escritório de advocacia, incluindo cadastro de processos, clientes e agenda de compromissos. | OOP em Java, Estruturas de dados em Java       |
 | 84  | Implemente um algoritmo em Java para calcular a árvore de Steiner mínima em um grafo não direcionado. | Algoritmos de grafos, Java                      |
