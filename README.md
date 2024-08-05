@@ -88,7 +88,7 @@
 | 82  | Escreva um programa Java que simule um sistema de gerenciamento de espaços de coworking, incluindo reserva de estações de trabalho e salas de reunião. | OOP em Java, Estruturas de dados em Java  | Concluído✅  |
 | 83  | Crie um sistema em Java para gerenciar um escritório de advocacia, incluindo cadastro de processos, clientes e agenda de compromissos. | OOP em Java, Estruturas de dados em Java | Concluído✅  |
 | 84  | Implemente um algoritmo em Java para calcular a árvore de Steiner mínima em um grafo não direcionado. | Algoritmos de grafos, Java  |Concluído✅ |
-| 85  | Desenvolva um aplicativo em Java que simule um sistema de gerenciamento de vendas online, permitindo cadastrar produtos, processar pedidos e gerar relatórios de vendas. | OOP em Java, Estruturas de dados em Java       |
+| 85  | Desenvolva um aplicativo em Java que simule um sistema de gerenciamento de vendas online, permitindo cadastrar produtos, processar pedidos e gerar relatórios de vendas. | OOP em Java, Estruturas de dados em Java |Concluído✅ |
 | 86  | Escreva um programa Java que simule um sistema de gerenciamento de despesas corporativas, permitindo registrar e categorizar despesas de funcionários. | OOP em Java, Estruturas de dados em Java       |
 | 87  | Crie um sistema em Java para gerenciar um evento esportivo, incluindo inscrições de participantes, controle de resultados e premiações. | OOP em Java, Estruturas de dados em Java       |
 | 88  | Implemente um algoritmo em Java para calcular o número mínimo de trocas necessárias para ordenar um array usando o algoritmo de bubble sort. | Algoritmos de ordenação, Java                   |
