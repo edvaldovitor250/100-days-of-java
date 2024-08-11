@@ -4,6 +4,7 @@ import java.util.List;
 public class Day090 {
 
     static class Post {
+        
         String image;
         String description;
         List<String> comments;

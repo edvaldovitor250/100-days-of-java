@@ -6,7 +6,6 @@
 
 **Resultado:**
 
-
 ```java
 
 import java.util.ArrayList;
