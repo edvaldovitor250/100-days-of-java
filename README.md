@@ -93,7 +93,7 @@
 | 87  | Crie um sistema em Java para gerenciar um evento esportivo, incluindo inscrições de participantes, controle de resultados e premiações. | OOP em Java, Estruturas de dados em Java     | Concluído✅ |
 | 88  | Implemente um algoritmo em Java para calcular o número mínimo de trocas necessárias para ordenar um array usando o algoritmo de bubble sort. | Algoritmos de ordenação, Java  | Concluído✅ 
 | 89  | Desenvolva um aplicativo em Java que simule um sistema de gerenciamento de reservas em uma companhia aérea, permitindo reservar voos, gerenciar assentos e emitir bilhetes. | OOP em Java, Estruturas de dados em Java |Concluído✅ |
-| 90  | Escreva um programa Java que simule um sistema de gestão de conteúdo para um blog, permitindo criar, editar e excluir postagens e comentários. | OOP em Java, Estruturas de dados em Java       |
+| 90  | Escreva um programa Java que simule um sistema de gestão de conteúdo para um blog, permitindo criar, editar e excluir postagens e comentários. | OOP em Java, Estruturas de dados em Java |Concluído✅ | 
 | 91  | Crie um sistema em Java para gerenciar um festival de música, incluindo venda de ingressos, programação de shows e controle de acesso. | OOP em Java, Estruturas de dados em Java       |
 | 92  | Implemente um algoritmo em Java para calcular o mínimo múltiplo comum (MMC) de um conjunto de números inteiros. | Algoritmos numéricos, Java                      |
 | 93  | Desenvolva um aplicativo em Java que simule um sistema de gestão de estoque para uma loja de materiais de construção, incluindo controle de fornecedores e produtos. | OOP em Java, Estruturas de dados em Java       |
