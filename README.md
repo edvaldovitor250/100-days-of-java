@@ -95,7 +95,7 @@
 | 89  | Desenvolva um aplicativo em Java que simule um sistema de gerenciamento de reservas em uma companhia aérea, permitindo reservar voos, gerenciar assentos e emitir bilhetes. | OOP em Java, Estruturas de dados em Java |Concluído✅ |
 | 90  | Escreva um programa Java que simule um sistema de gestão de conteúdo para um blog, permitindo criar, editar e excluir postagens e comentários. | OOP em Java, Estruturas de dados em Java |Concluído✅ | 
 | 91  | Crie um sistema em Java para gerenciar um festival de música, incluindo venda de ingressos, programação de shows e controle de acesso. | OOP em Java, Estruturas de dados em Java  |Concluído✅   |
-| 92  | Implemente um algoritmo em Java para calcular o mínimo múltiplo comum (MMC) de um conjunto de números inteiros. | Algoritmos numéricos, Java                      |
+| 92  | Implemente um algoritmo em Java para calcular o mínimo múltiplo comum (MMC) de um conjunto de números inteiros. | Algoritmos numéricos, Java   |Concluído✅   |
 | 93  | Desenvolva um aplicativo em Java que simule um sistema de gestão de estoque para uma loja de materiais de construção, incluindo controle de fornecedores e produtos. | OOP em Java, Estruturas de dados em Java       |
 | 94  | Escreva um programa Java que simule um sistema de gerenciamento de aluguel de carros, permitindo cadastrar veículos, realizar reservas e emitir recibos. | OOP em Java, Estruturas de dados em Java       |
 | 95  | Crie um sistema em Java para gerenciar um parque de diversões, incluindo venda de ingressos, agendamento de atrações e controle de capacidade. | OOP em Java, Estruturas de dados em Java       |
