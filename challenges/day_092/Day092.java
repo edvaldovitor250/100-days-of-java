@@ -23,6 +23,7 @@ public class Day092 {
         }
         return result;
     }
+    
 
     public static void main(String[] args) {
         List<Integer> numbers = new ArrayList<>();
