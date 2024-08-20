@@ -102,5 +102,5 @@
 | 96  | Implemente um algoritmo em Java para calcular o fecho convexo de um conjunto de pontos no plano usando o algoritmo de Graham. | Algoritmos geométricos, Java    |Concluído✅   |
 | 97  | Desenvolva um aplicativo em Java que simule um sistema de gerenciamento de viagens, permitindo reservar voos, hotéis e alugar carros. | OOP em Java, Estruturas de dados em Java   | Concluído✅ |
 | 98  | Escreva um programa Java que simule um sistema de gestão de serviços de entrega de comida, permitindo fazer pedidos, rastrear entregas e avaliar restaurantes. | OOP em Java, Estruturas de dados em Java   | Concluído✅ |
-| 99  | Crie um sistema em Java para gerenciar um pet shop, incluindo cadastro de clientes, agendamento de consultas veterinárias e controle de vendas de produtos. | OOP em Java, Estruturas de dados em Java       |
+| 99  | Crie um sistema em Java para gerenciar um pet shop, incluindo cadastro de clientes, agendamento de consultas veterinárias e controle de vendas de produtos. | OOP em Java, Estruturas de dados em Java    |Concluído✅   |
 | 100 | Implemente um algoritmo em Java para calcular a cobertura mínima de vértices de um grafo usando o algoritmo de aproximidade. | Algoritmos de grafos, Java                      |
